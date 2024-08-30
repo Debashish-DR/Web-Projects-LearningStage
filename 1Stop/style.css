@@ -1,0 +1,50 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 81%);
+    font-weight: 400;
+}
+.nav-item
+{
+    padding-left: 20px;
+}
+.collage
+{
+    height: 500px;
+}
+.template
+{
+    
+}
+.card
+{
+    display: flex;
+    flex-wrap:nowrap;
+    align-items:flex-start !important;
+    width: 360px;
+    min-height: 400px;
+    box-shadow: 0 0 4px #d4ecff;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #fff;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+.card:hover
+{
+    box-shadow: 4px 6px 8px #d4ecff;
+    background-color: #f7fdff;
+    transform: translateY(-2px);
+}
+.card_header img
+{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.card_content
+{
+    padding: 12px;
+}
+.news_source
+{
+    margin-block: 12px;
+}

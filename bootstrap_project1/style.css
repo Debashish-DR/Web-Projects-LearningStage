@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 81%);
+    font-weight: 400;
+}
+.nav-item
+{
+    padding-left: 20px;
+}
+.collage
+{
+    height: 500px;
+}
